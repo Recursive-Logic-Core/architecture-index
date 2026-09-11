@@ -3,9 +3,11 @@
 
 > **System Scope:** Public repositories serve exclusively as minimal, zero-dependency baseline proofs. Production-grade context governors, streaming pipelines, and rendering protocols are not generic off-the-shelf software—they are custom-tailored architectural frameworks engineered on-site for specific enterprise infrastructures.
 
+```text
 [ Tier-1: Baseline References ]  --->  Minimal Public Proofs (SLAP / DriftBreak)
 │
 [ Tier-2: Heavy Blueprints     ]  --->  Tailored Enterprise Frameworks (Directory Below)
+```
 
 ---
 
