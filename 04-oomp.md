@@ -1,4 +1,4 @@
-# 04 — OOMP (Object-Oriented Markup Protocol)
+# 04 — O.O.M.P. (Object-Oriented Markup Protocol)
 **Classification:** Deterministic Zero-DOM Linear Rendering Protocol  
 **Tier Level:** Tier-2 (Heavy Architectural Blueprint)
 
