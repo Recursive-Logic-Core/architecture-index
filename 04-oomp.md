@@ -7,14 +7,19 @@
                               │
                  [ Local State Reset: O(N) ]
 ```
+<br>
 
 ## Problem Statement
 Legacy UI rendering architectures (HTML/CSS/DOM) impose massive memory footprints, non-deterministic layout reflows, and cascading state-bleeding across nested elements.
+
+<br>
 
 ## Architectural Solution
 * **Zero-DOM Traversal:** Eliminates tree-walking and unbounded recalculations through line-disciplined single-pass parsing.
 * **Deterministic State Isolation:** Modifiers are strictly localized; global style inheritance bleed is mathematically prevented.
 * **Native Temporal Control:** Cyclical color and state transitions execute at parse level without runtime style recalculations.
+
+<br>
 
 ## Deployment & Implementation Status
 
