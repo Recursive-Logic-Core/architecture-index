@@ -15,11 +15,14 @@
 
 Every enterprise deployment operates under unique constraints (VRAM budgets, latency profiles, regulatory compliance, data ingestion pipelines). The specifications listed below define foundational architectural patterns. Full production implementation, custom adaptation, and deployment are executed exclusively on-site.
 
-* [`01-slap.md`](./01-slap.md) — *Baseline:* Linear State Serialization Protocol ($O(N)$ single-pass).
-* [`02-driftbreak.md`](./02-driftbreak.md) — *Baseline:* Local VRAM & Session Governor (`127.0.0.1`).
-* [`03-varia.md`](./03-varia.md) — *Enterprise Blueprint:* Multi-Stage Context Governor & Cross-Reference Engine (500+ pages).
-* [`04-oomp.md`](./04-oomp.md) — *Enterprise Blueprint:* Deterministic Zero-DOM Linear Rendering Protocol.
-* *Additional domain-specific frameworks are continuously integrated as architectural requirements evolve.*
+- [`01-slap.md`](./01-slap.md) — *Baseline:* Linear State Serialization Protocol ($O(N)$ single-pass).
+- [`02-driftbreak.md`](./02-driftbreak.md) — *Baseline:* Local VRAM & Session Governor (`127.0.0.1`).
+- [`03-varia.md`](./03-varia.md) — *Enterprise Blueprint:* Multi-Stage Context Governor & Cross-Reference Engine (500+ pages).
+- [`04-oomp.md`](./04-oomp.md) — *Enterprise Blueprint:* Deterministic Zero-DOM Linear Rendering Protocol.
+- [`05-contur.md`](./05-contur.md) — *Enterprise Blueprint:* Constrained Optical Node & Topology Unification Runtime (Kinematic Rigging & Hallucination Elimination).
+- [`06-tenet.md`](./06-tenet.md) — *Enterprise Blueprint:* Transactional Exclusion & Node-Enforced Topology (Mutual Exclusion & Audit-Locked Compliance Barrier).
+- [`07-aspis.md`](./07-aspis.md) — *Enterprise Blueprint:* Amnestic State Partitioning & Invariant Sanitization (Zero-Memory Reader & Zero-Resonance Adversarial Barrier).
+- *Additional domain-specific frameworks are continuously integrated as architectural requirements evolve.*
 
 ---
 
