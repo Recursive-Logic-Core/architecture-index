@@ -1,4 +1,4 @@
-# 01 — SLAP (Structured Line-Array Protocol)
+# 01 — S.L.A.P. (Structured Line-Array Protocol)
 **Classification:** Linear State Serialization Protocol  
 **Tier Level:** Tier-1 (Baseline Utility / Public Reference)
 
