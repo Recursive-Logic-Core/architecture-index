@@ -13,7 +13,7 @@
 
 ## Architecture Directory (Tier-2 Specifications)
 
-Every enterprise deployment operates under unique constraints (VRAM budgets, latency profiles, regulatory compliance, data ingestion pipelines). The specifications listed below define foundational architectural patterns. Full production implementation, custom adaptation, and deployment are executed exclusively on-site.
+Every enterprise deployment operates under unique constraints (VRAM budgets, latency profiles, regulatory compliance, data ingestion pipelines). The specifications listed below define foundational architectural patterns. Full production implementation, custom adaptation, and deployment are executed exclusively under direct FTE / EoR contract.
 
 - [`01-slap.md`](./01-slap.md) — *Baseline:* Linear State Serialization Protocol ($O(N)$ single-pass).
 - [`02-driftbreak.md`](./02-driftbreak.md) — *Baseline:* Local VRAM & Session Governor (`127.0.0.1`).
