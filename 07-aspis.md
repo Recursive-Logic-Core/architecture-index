@@ -23,7 +23,7 @@ Standard conversational AI interfaces, autonomous support agents, and ingestion 
 ## Architectural Solution
 
 * **Per-Turn Amnestic Ingestion:** Isolates user input processing within a dedicated, strictly read-only intake node. Context history is physically purged to zero after each conversational turn, mathematically precluding progressive multi-turn context corruption.
-* **Deterministic $0.1\,\%$ Uncertainty Quarantine:** Eliminates stochastic leniency. Any inbound token sequence presenting a non-zero adversarial probability ($\ge 0.1\,\%$) triggers immediate execution halts and generates an isolated forensic quarantine ledger (SLAP/JSON) for human administrative triage.
+* **Deterministic 0.1% Uncertainty Quarantine:** Eliminates stochastic leniency. Any inbound token sequence presenting a non-zero adversarial probability ($\ge 0.1\%$) triggers immediate execution halts
 * **Air-Gapped Context Sanitization:** The operational execution layer never observes raw linguistic input. Perception is strictly decoupled from action; backend systems interact exclusively with sanitized, typed schema primitives validated by an out-of-band host program.
 
 ## The Semantic Guardrail Fallacy (Why In-Context Safety Fails)
@@ -42,7 +42,7 @@ While commodity agent frameworks pass raw context streams directly into operatio
 
 * **Decoupled Nodes:** Amnestic Ingestion Listeners, Syntactic Zero-Tolerance Filters, Forensic Serialization Encoders, and Schema-Only Execution Bridges function as distinct, zero-dependency modules.
 * **Drop-in Orchestration:** The framework mounts upstream of conversational runtimes, voice processing pipelines, and autonomous intake APIs—acting as a deterministic security barrier without modifying underlying base models.
-* **Custom-Tailored vs. Modular Deployment:** Baseline amnesia and structural schema extraction deploy out of the box, while enterprise adaptations integrate bespoke corporate governance policies, compliance audit queues, and regulatory review protocols.
+* **Custom-Tailored Architectural Deployment:** Engineered as a bespoke ingress isolation and schema-extraction specification tailored to corporate governance policies, compliance audit queues, and regulatory review protocols.
 
 ## Deployment & Implementation Status
 
@@ -52,6 +52,6 @@ IMPLEMENTATION LOGIC: AIR-GAPPED / OFF-GRID
 ```
 
 * **No Public Distribution:** State-purging primitives, heuristic quarantine filters, and schema-sanitization logic are not publicly hosted.
-* **Deployment Model:** Delivered either as an integrated modular pipeline framework or through custom-tailored on-site adaptations via a selective **Full-Time Employment (FTE via EOR / Germany-compliant)** engagement.
+* **Deployment Model:** Delivered through custom-tailored 100% remote architectural specification and integration oversight via a selective **Full-Time Employment (FTE via EoR / Germany-compliant)** engagement.
 
 **Engineering Briefings:** `arch_mmm@proton.me`
