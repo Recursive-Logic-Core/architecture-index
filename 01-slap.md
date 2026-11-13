@@ -13,5 +13,5 @@ SLAP is a lightweight, zero-dependency serialization format engineered to achiev
 ---
 
 ## Implementation & Source Code
-This system is part of the public baseline toolset:
+This system is part of the public baseline toolset (published on PyPI via pip install slap-gateway):
 👉 **[View Public Repository: Recursive-Logic-Core / SLAP](https://github.com/Recursive-Logic-Core/SLAP)**
