@@ -29,6 +29,6 @@ LEXER & RUNTIME: AIR-GAPPED / OFF-GRID
 ```
 
 * **No Public Endpoints:** Grammar rules, lexer source code, and runtimes are proprietary assets.
-* **Deployment Model:** Production-grade engine implementation and custom hardware/system adaptation are reserved exclusively for an enterprise Full-Time Employment (FTE via EOR) role.
+* **Deployment Model:** Production-grade engine implementation and custom hardware/system adaptation are reserved exclusively for a 100% remote enterprise Full-Time Employment (FTE via EoR) role.
 
 **Engineering Briefings:** `arch_mmm@proton.me`
