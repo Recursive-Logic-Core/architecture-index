@@ -47,6 +47,6 @@ IMPLEMENTATION LOGIC: AIR-GAPPED / OFF-GRID
 ```
 
 * **No Public Distribution:** Source code, segmentation regexes, and graph resolution engines are not publicly hosted.
-* **Deployment Model:** Delivered either as an integrated modular pipeline framework or through custom-tailored on-site adaptations via a selective **Full-Time Employment (FTE via EOR / Germany-compliant)** engagement.
+* **Deployment Model:** Delivered either as an integrated modular control layer or through custom-tailored 100% remote adaptations via a selective **Full-Time Employment (FTE via EoR / Germany-compliant)** engagement.
 
 **Engineering Briefings:** `arch_mmm@proton.me`
